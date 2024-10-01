@@ -20,7 +20,7 @@ import { API_BASE_URL } from "../constants.js";
 const ContactUs = () => {
   // State to hold form data
   const [formData, setFormData] = useState({
-    name: "",
+    name: "test",
     email: "",
     subject: "",
     message: "",
