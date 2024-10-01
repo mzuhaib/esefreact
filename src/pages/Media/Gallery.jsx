@@ -4,7 +4,7 @@ import Footer from "../../components/Footer";
 import FsLightbox from "fslightbox-react";
 import { Container, Row, Col } from "react-bootstrap";
 import axios from "axios";
-import { BASE_URL } from "../../constants.js";
+import { BASE_URL, COMPANY_NAME } from "../../constants.js";
 import { API_BASE_URL } from "../../constants.js";
 
 const Gallery = () => {
