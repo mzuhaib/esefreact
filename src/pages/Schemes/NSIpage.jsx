@@ -3,7 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import Header from "../../components/Header";
 import Footer from "../../components/Footer";
 import nsiIntroImg from "../../assets/images/nsi.png";
-import NSICounter from "../../components/NSIcounter";
+import NSICounter from "../../components/NSICounter";
 import { FaRegBuilding } from "react-icons/fa";
 import { FaUsers } from "react-icons/fa";
 import { FaUserFriends } from "react-icons/fa";

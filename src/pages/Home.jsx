@@ -8,7 +8,7 @@ import HomeSchemes from "../components/HomeSchemes";
 import GCSCounter from "../components/GCSCounter";
 import Footer from "../components/Footer";
 import ESSCounter from "../components/ESSCounter";
-import NSICounter from "../components/NSIcounter";
+import NSICounter from "../components/NSICounter";
 import HomeContact from "../components/HomeContact";
 import { COMPANY_NAME } from "../constants";
 
